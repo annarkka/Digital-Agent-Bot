@@ -1,0 +1,197 @@
+{
+    "catchAll": {
+        "phrases": [
+            "Извините, непонятно"
+        ]
+    },
+    "speechNotRecognized": {
+        "phrases": [
+            "Вас плохо слышно, повторите, пожалуйста!"
+        ]
+    },
+    "fulfillment": {
+        "settings": {
+            "default": {
+                "url": ""
+            },
+            "channels": []
+        },
+        "actions": [
+            {
+                "state": "/newNode_74",
+                "action": "ПОЛУЧИТЬ SMS-КОД RU",
+                "color": "#fed766"
+            },
+            {
+                "state": "/newNode_76",
+                "action": "ОШИБКА 5",
+                "color": "#ef767a"
+            },
+            {
+                "state": "/newNode_6",
+                "action": "Получить типы услугодателей RU",
+                "color": "#fed766"
+            },
+            {
+                "state": "/newNode_0",
+                "action": "Welcome",
+                "color": "#f991cc"
+            },
+            {
+                "state": "/newNode_27",
+                "action": "ПОЛУЧИТЬ РЕГИОНЫ RU",
+                "color": "#1ccad8"
+            },
+            {
+                "state": "/newNode_40",
+                "action": "ПОЛУЧИТЬ РАЙОНЫ RU",
+                "color": "#9fd356"
+            },
+            {
+                "state": "/newNode_53",
+                "action": "ПОЛУЧИТЬ ОРГАНИЗАЦИИ RU",
+                "color": "#edc9ff"
+            },
+            {
+                "state": "/newNode_72",
+                "action": "КОММЕНТАРИЙ RU",
+                "color": "#f79256"
+            },
+            {
+                "state": "/newNode_73",
+                "action": "НОМЕР ТЕЛЕФОНА RU",
+                "color": "#bbbe64"
+            },
+            {
+                "state": "/newNode_78",
+                "action": "ПРОВЕРИТЬ SMS-КОД RU",
+                "color": "#15e6cd"
+            },
+            {
+                "state": "/newNode_81",
+                "action": "ОТПРАВИТЬ ОТЗЫВ RU",
+                "color": "#f4e04d"
+            },
+            {
+                "state": "/newNode_156",
+                "action": "ПОЛУЧИТЬ ТИПЫ УСЛУГОДАТЕЛЕЙ KZ",
+                "color": "#fed766"
+            },
+            {
+                "state": "/newNode_160",
+                "action": "ҚАТЕ 1",
+                "color": "#ef767a"
+            },
+            {
+                "state": "/newNode_93",
+                "action": "ОШИБКА 1",
+                "color": "#ef767a"
+            },
+            {
+                "state": "/newNode_177",
+                "action": "ПОЛУЧИТЬ РЕГИОНЫ KZ",
+                "color": "#1ccad8"
+            },
+            {
+                "state": "/newNode_179",
+                "action": "ҚАТЕ 2",
+                "color": "#ef767a"
+            },
+            {
+                "state": "/newNode_96",
+                "action": "ОШИБКА 2",
+                "color": "#ef767a"
+            },
+            {
+                "state": "/newNode_196",
+                "action": "ПОЛУЧИТЬ РАЙОНЫ KZ",
+                "color": "#9fd356"
+            },
+            {
+                "state": "/newNode_198",
+                "action": "ҚАТЕ 3",
+                "color": "#ef767a"
+            },
+            {
+                "state": "/newNode_102",
+                "action": "ОШИБКА 3",
+                "color": "#ef767a"
+            },
+            {
+                "state": "/newNode_215",
+                "action": "ПОЛУЧИТЬ ОРГАНИЗАЦИИ KZ",
+                "color": "#edc9ff"
+            },
+            {
+                "state": "/newNode_217",
+                "action": "ҚАТЕ 4",
+                "color": "#ef767a"
+            },
+            {
+                "state": "/newNode_105",
+                "action": "ОШИБКА 4",
+                "color": "#ef767a"
+            },
+            {
+                "state": "/newNode_112",
+                "action": "ОЦЕНИТЬ RU",
+                "color": "#15e6cd"
+            },
+            {
+                "state": "/newNode_241",
+                "action": "ОЦЕНИТЬ KZ",
+                "color": "#15e6cd"
+            },
+            {
+                "state": "/newNode_243",
+                "action": "КОММЕНТАРИЙ KZ",
+                "color": "#f79256"
+            },
+            {
+                "state": "/newNode_247",
+                "action": "НОМЕР ТЕЛЕФОНА KZ",
+                "color": "#bbbe64"
+            },
+            {
+                "state": "/newNode_249",
+                "action": "ПОЛУЧИТЬ SMS-КОД KZ",
+                "color": "#fed766"
+            },
+            {
+                "state": "/newNode_251",
+                "action": "ҚАТЕ 5",
+                "color": "#ef767a"
+            },
+            {
+                "state": "/newNode_257",
+                "action": "ПРОВЕРИТЬ SMS-КОД KZ",
+                "color": "#15e6cd"
+            },
+            {
+                "state": "/newNode_262",
+                "action": "ОТПРАВИТЬ ОТЗЫВ KZ",
+                "color": "#f4e04d"
+            },
+            {
+                "state": "/newNode_264",
+                "action": "ҚАТЕ 6",
+                "color": "#ef767a"
+            },
+            {
+                "state": "/newNode_84",
+                "action": "ОШИБКА 6",
+                "color": "#ef767a"
+            },
+            {
+                "state": "/newNode_119",
+                "action": "УСПЕШНО ОТПРАВЛЕН RU!",
+                "color": "#9fd356"
+            },
+            {
+                "state": "/newNode_266",
+                "action": "УСПЕШНО ОТПРАВЛЕН KZ! ",
+                "color": "#9fd356"
+            }
+        ]
+    }
+}

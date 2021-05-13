@@ -1,0 +1,519 @@
+{
+  "project" : {
+    "id" : "test_2-255040922-qys",
+    "name" : "test_2-255040922-qys",
+    "folder" : "/jaicp"
+  },
+  "settings" : {
+    "language" : "ru",
+    "spellingCorrection" : false,
+    "classificationAlgorithm" : "sts",
+    "timezone" : "UTC",
+    "extendedSettings" : {
+      "tokenizerEngine" : "mystem",
+      "allowedPatterns" : [ "agree", "disagree", "bad", "bot", "bye", "cannot", "clever", "compliment", "dontKnow", "gender", "good", "hello", "looser", "maybe", "me", "my", "need", "normal", "notNow", "now", "pls", "serviceHelperHuman", "stupid", "super", "sure", "thanks", "turnOff", "turnOn", "what", "why", "email", "smth", "obsceneWord", "continue", "shutUp", "stopGame", "stopGameStrong", "stopGameWeak" ],
+      "useShared" : true,
+      "zflPatternsEnabled" : true
+    },
+    "shared" : false
+  },
+  "intents" : [ {
+    "id" : 576827,
+    "path" : "/newNode_1/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "0 - Қазақ"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576849,
+    "path" : "/newNode_111/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "-"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576850,
+    "path" : "/newNode_111/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576828,
+    "path" : "/newNode_1/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "1 - Русский"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576865,
+    "path" : "/newNode_120/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576835,
+    "path" : "/newNode_122/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576837,
+    "path" : "/newNode_123/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "-"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576838,
+    "path" : "/newNode_123/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576841,
+    "path" : "/newNode_124/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "-"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576842,
+    "path" : "/newNode_124/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576845,
+    "path" : "/newNode_125/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "-"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576846,
+    "path" : "/newNode_125/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576857,
+    "path" : "/newNode_126/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "-"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576858,
+    "path" : "/newNode_126/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576861,
+    "path" : "/newNode_127/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "-"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576862,
+    "path" : "/newNode_127/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576832,
+    "path" : "/newNode_151/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "0 - Жоқ"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576833,
+    "path" : "/newNode_151/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "1 - Иә"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576834,
+    "path" : "/newNode_151/3",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576836,
+    "path" : "/newNode_153/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576839,
+    "path" : "/newNode_161/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "-"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576840,
+    "path" : "/newNode_161/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576843,
+    "path" : "/newNode_180/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "-"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576844,
+    "path" : "/newNode_180/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576847,
+    "path" : "/newNode_199/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "-"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576848,
+    "path" : "/newNode_199/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576853,
+    "path" : "/newNode_218/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "-"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576854,
+    "path" : "/newNode_218/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576855,
+    "path" : "/newNode_221/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "-"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576856,
+    "path" : "/newNode_221/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576859,
+    "path" : "/newNode_252/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "-"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576860,
+    "path" : "/newNode_252/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576866,
+    "path" : "/newNode_265/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "-"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576867,
+    "path" : "/newNode_265/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576868,
+    "path" : "/newNode_271/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "0 - Жоқ"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576869,
+    "path" : "/newNode_271/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "1 - Иә"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576870,
+    "path" : "/newNode_273/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576829,
+    "path" : "/newNode_5/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "0 - Нет"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576830,
+    "path" : "/newNode_5/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "1 - Да"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576831,
+    "path" : "/newNode_5/3",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576851,
+    "path" : "/newNode_69/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "-"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576852,
+    "path" : "/newNode_69/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "+"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576863,
+    "path" : "/newNode_86/1",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "0 - Нет"
+    } ],
+    "patterns" : [ ]
+  }, {
+    "id" : 576864,
+    "path" : "/newNode_86/2",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "1 - Да"
+    } ],
+    "patterns" : [ ]
+  } ],
+  "entities" : [ ],
+  "enabledSystemEntities" : [ ],
+  "spellerDictionary" : [ ],
+  "systemEntities" : [ {
+    "name" : "mystem.geo",
+    "enabled" : false
+  }, {
+    "name" : "mystem.persn",
+    "enabled" : false
+  }, {
+    "name" : "mystem.obsc",
+    "enabled" : false
+  }, {
+    "name" : "mystem.patrn",
+    "enabled" : false
+  }, {
+    "name" : "mystem.famn",
+    "enabled" : false
+  }, {
+    "name" : "pymorphy.romn",
+    "enabled" : false
+  }, {
+    "name" : "pymorphy.latn",
+    "enabled" : false
+  }, {
+    "name" : "pymorphy.numb",
+    "enabled" : false
+  }, {
+    "name" : "pymorphy.intg",
+    "enabled" : false
+  }, {
+    "name" : "pymorphy.abbr",
+    "enabled" : false
+  }, {
+    "name" : "pymorphy.name",
+    "enabled" : false
+  }, {
+    "name" : "pymorphy.surn",
+    "enabled" : false
+  }, {
+    "name" : "pymorphy.patr",
+    "enabled" : false
+  }, {
+    "name" : "pymorphy.geox",
+    "enabled" : false
+  }, {
+    "name" : "pymorphy.orgn",
+    "enabled" : false
+  }, {
+    "name" : "duckling.number",
+    "version" : "v1",
+    "enabled" : false
+  }, {
+    "name" : "duckling.ordinal",
+    "version" : "v1",
+    "enabled" : false
+  }, {
+    "name" : "duckling.amount-of-money",
+    "version" : "v1",
+    "enabled" : false
+  }, {
+    "name" : "duckling.distance",
+    "version" : "v1",
+    "enabled" : false
+  }, {
+    "name" : "duckling.time",
+    "version" : "v1",
+    "enabled" : false
+  }, {
+    "name" : "duckling.date",
+    "version" : "v1",
+    "enabled" : false
+  }, {
+    "name" : "duckling.time-of-day",
+    "version" : "v1",
+    "enabled" : false
+  }, {
+    "name" : "duckling.duration",
+    "version" : "v1",
+    "enabled" : false
+  }, {
+    "name" : "duckling.phone-number",
+    "version" : "v1",
+    "enabled" : false
+  }, {
+    "name" : "duckling.email",
+    "version" : "v1",
+    "enabled" : false
+  }, {
+    "name" : "duckling.url",
+    "version" : "v1",
+    "enabled" : false
+  }, {
+    "name" : "mlps-obscene.obscene",
+    "enabled" : false
+  }, {
+    "name" : "zb.datetime",
+    "enabled" : false
+  }, {
+    "name" : "zb.number",
+    "enabled" : false
+  } ]
+}
